@@ -1,0 +1,11 @@
+C:\Users\fic\Music\POO-Csharp\Atributos\obj\Debug\netcoreapp2.2\Atributos.csprojAssemblyReference.cache
+C:\Users\fic\Music\POO-Csharp\Atributos\obj\Debug\netcoreapp2.2\Atributos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Music\POO-Csharp\Atributos\obj\Debug\netcoreapp2.2\Atributos.AssemblyInfoInputs.cache
+C:\Users\fic\Music\POO-Csharp\Atributos\obj\Debug\netcoreapp2.2\Atributos.AssemblyInfo.cs
+C:\Users\fic\Music\POO-Csharp\Atributos\bin\Debug\netcoreapp2.2\Atributos.deps.json
+C:\Users\fic\Music\POO-Csharp\Atributos\bin\Debug\netcoreapp2.2\Atributos.runtimeconfig.json
+C:\Users\fic\Music\POO-Csharp\Atributos\bin\Debug\netcoreapp2.2\Atributos.runtimeconfig.dev.json
+C:\Users\fic\Music\POO-Csharp\Atributos\bin\Debug\netcoreapp2.2\Atributos.dll
+C:\Users\fic\Music\POO-Csharp\Atributos\bin\Debug\netcoreapp2.2\Atributos.pdb
+C:\Users\fic\Music\POO-Csharp\Atributos\obj\Debug\netcoreapp2.2\Atributos.dll
+C:\Users\fic\Music\POO-Csharp\Atributos\obj\Debug\netcoreapp2.2\Atributos.pdb
