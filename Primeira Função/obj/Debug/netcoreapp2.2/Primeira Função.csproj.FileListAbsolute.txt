@@ -1,0 +1,11 @@
+C:\Users\fic\Music\POO-Csharp\Primeira Função\bin\Debug\netcoreapp2.2\Primeira Função.deps.json
+C:\Users\fic\Music\POO-Csharp\Primeira Função\bin\Debug\netcoreapp2.2\Primeira Função.runtimeconfig.json
+C:\Users\fic\Music\POO-Csharp\Primeira Função\bin\Debug\netcoreapp2.2\Primeira Função.runtimeconfig.dev.json
+C:\Users\fic\Music\POO-Csharp\Primeira Função\bin\Debug\netcoreapp2.2\Primeira Função.dll
+C:\Users\fic\Music\POO-Csharp\Primeira Função\bin\Debug\netcoreapp2.2\Primeira Função.pdb
+C:\Users\fic\Music\POO-Csharp\Primeira Função\obj\Debug\netcoreapp2.2\Primeira Função.csprojAssemblyReference.cache
+C:\Users\fic\Music\POO-Csharp\Primeira Função\obj\Debug\netcoreapp2.2\Primeira Função.csproj.CoreCompileInputs.cache
+C:\Users\fic\Music\POO-Csharp\Primeira Função\obj\Debug\netcoreapp2.2\Primeira Função.AssemblyInfoInputs.cache
+C:\Users\fic\Music\POO-Csharp\Primeira Função\obj\Debug\netcoreapp2.2\Primeira Função.AssemblyInfo.cs
+C:\Users\fic\Music\POO-Csharp\Primeira Função\obj\Debug\netcoreapp2.2\Primeira Função.dll
+C:\Users\fic\Music\POO-Csharp\Primeira Função\obj\Debug\netcoreapp2.2\Primeira Função.pdb
