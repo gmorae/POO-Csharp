@@ -1,0 +1,11 @@
+C:\Users\fic\Music\POO-Csharp\Treinando classes\bin\Debug\netcoreapp2.2\Treinando classes.deps.json
+C:\Users\fic\Music\POO-Csharp\Treinando classes\bin\Debug\netcoreapp2.2\Treinando classes.runtimeconfig.json
+C:\Users\fic\Music\POO-Csharp\Treinando classes\bin\Debug\netcoreapp2.2\Treinando classes.runtimeconfig.dev.json
+C:\Users\fic\Music\POO-Csharp\Treinando classes\bin\Debug\netcoreapp2.2\Treinando classes.dll
+C:\Users\fic\Music\POO-Csharp\Treinando classes\bin\Debug\netcoreapp2.2\Treinando classes.pdb
+C:\Users\fic\Music\POO-Csharp\Treinando classes\obj\Debug\netcoreapp2.2\Treinando classes.csprojAssemblyReference.cache
+C:\Users\fic\Music\POO-Csharp\Treinando classes\obj\Debug\netcoreapp2.2\Treinando classes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Music\POO-Csharp\Treinando classes\obj\Debug\netcoreapp2.2\Treinando classes.AssemblyInfoInputs.cache
+C:\Users\fic\Music\POO-Csharp\Treinando classes\obj\Debug\netcoreapp2.2\Treinando classes.AssemblyInfo.cs
+C:\Users\fic\Music\POO-Csharp\Treinando classes\obj\Debug\netcoreapp2.2\Treinando classes.dll
+C:\Users\fic\Music\POO-Csharp\Treinando classes\obj\Debug\netcoreapp2.2\Treinando classes.pdb
